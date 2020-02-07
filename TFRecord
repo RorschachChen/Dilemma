@@ -1,0 +1,5 @@
+"""
+2020-02-07 13:35:57.932217: W tensorflow/core/framework/op_kernel.cc:1401] OP_REQUIRES failed at example_parsing_ops.cc:240 : 
+Invalid argument: Key: label.  Can't parse serialized Example.
+"""
+
